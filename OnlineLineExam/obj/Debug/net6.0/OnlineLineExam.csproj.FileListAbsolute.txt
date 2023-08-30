@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\OnlineLineExam\OnlineLineExam\obj\Debug\net6.0\OnlineLineExam.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OnlineLineExam\OnlineLineExam\obj\Debug\net6.0\OnlineLineExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OnlineLineExam\OnlineLineExam\obj\Debug\net6.0\OnlineLineExam.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OnlineLineExam\OnlineLineExam\obj\Debug\net6.0\OnlineLineExam.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OnlineLineExam\OnlineLineExam\obj\Debug\net6.0\OnlineLineExam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OnlineLineExam\OnlineLineExam\obj\Debug\net6.0\OnlineLineExam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\OnlineLineExam\OnlineLineExam\obj\Debug\net6.0\OnlineLineExam.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\OnlineLineExam\OnlineLineExam\obj\Debug\net6.0\OnlineLineExam.RazorAssemblyInfo.cs
